@@ -4,7 +4,7 @@
 - Python 3.4+
 - OpenCV 3.1.0
 - Numpy
-- Ip Camera (Eu folosesc android aplicatie: "IP Webcam")
+- Ip Camera (Eu folosesc android aplicatie: "[IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en)")
 
 ## Pentru a instala OpenCV 3.1 pe Unix SO Pyton 3.4+
 `pip install opencv-contrib-python`
