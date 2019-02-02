@@ -11,9 +11,11 @@
 
 ## Continut
 Acest proiect este divizat in 3 parti:
-1. Crearea datelor/poze (creare_poze.py)
+1. Crearea datelor/poze (creare_poze.py ip)
+   [exemplu de rulare: creare_poze.py 192.168.100.100]
 2. Antrenam modelul din poze (model_din_poze.py)
-3. Recunoasterea fetei (rec_fata.py)
+3. Recunoasterea fetei (rec_fata.py ip)
+   [exemplu de rulare: rec_fata.py 192.168.100.100]
 
 ## Cum sa rulez ?
 1. Fiti atenti sa aveti folderul 'dataset' si 'trainer' in acelasi directoriu
